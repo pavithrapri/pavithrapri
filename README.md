@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavithra p
 - 👀 I’m interested in Software Develeper,AI Researcher,Web Develepment,.NET,MachineLearning
 - 🌱 I’m completed BTECH&BIOTECHNOLOGY...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pavithrapalani1282003@gmail.com
 
 <!---
