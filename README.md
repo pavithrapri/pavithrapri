@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pavithra p
+- I have 1 year of experience in software Development
 - 👀 I’m interested in Software Develeper,AI Researcher,Web Develepment,.NET,MachineLearning
 - 🌱 I’m completed BTECH&BIOTECHNOLOGY...
 - 📫 How to reach me pavithrapalani1282003@gmail.com
