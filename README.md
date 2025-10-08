@@ -2,9 +2,9 @@
 
 🚀 **Software Developer | Python & AI Enthusiast | Full Stack Developer**  
 📍 Erode, India  
-📫 **Email:** pavithrapalani1282003@gmail.com  
+📫 **Email:** [pavithrapalani1282003@gmail.com  ]  | 
 🌐 **Portfolio:** [pavithraportfolio.netlify.app](https://pavithraportfolio.netlify.app)  
-💼 **LinkedIn:** [linkedin.com/in/pavithra-p-20278022](https://www.linkedin.com/in/pavithra-p-20278022/)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/pavithra-p-202780212/](https://www.linkedin.com/in/pavithra-p-202780212/)  
 💻 **GitHub:** [github.com/pavithrapri](https://github.com/pavithrapri)  
 
 ---
