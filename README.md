@@ -67,7 +67,7 @@ I love turning ideas into impactful solutions — from **AI chatbots** to **pric
 I’m always open to  exciting tech opportunities .  
 Feel free to connect or drop me a message!  
 
-🌐 [Portfolio](https://pavithraportfolio.netlify.app) • 💼 [LinkedIn](https://www.linkedin.com/in/pavithra-p-20278022/) • 💻 [GitHub](https://github.com/pavithrapri)
+🌐 [Portfolio](https://pavithrap-portfolio.netlify.app/) • 💼 [LinkedIn](https://www.linkedin.com/in/pavithra-p-20278022/) • 💻 [GitHub](https://github.com/pavithrapri)
 
 ---
 
