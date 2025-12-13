@@ -4,6 +4,7 @@
 📍 Erode, India  
 📫 **Email:** pavithrapalani1282003@gmail.com   
 🌐 **Portfolio:** [https://pavithrap-portfolio.netlify.app/](https://pavithrap-portfolio.netlify.app/)
+
 💼 **LinkedIn:** [https://www.linkedin.com/in/pavithra-p-202780212/](https://www.linkedin.com/in/pavithra-p-202780212/)  
 💻 **GitHub:** [github.com/pavithrapri](https://github.com/pavithrapri)  
 
