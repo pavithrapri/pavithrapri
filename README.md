@@ -34,11 +34,13 @@ I love turning ideas into impactful solutions — from **AI chatbots** to **pric
 
 ### 🧩 **Software Developer – Python & AI**  
 **BM E Solutions** | *Aug 2024 – Present*  
-- Developed scalable backend APIs using FastAPI & Flask for internal platforms.  
-- Built automation scripts and web scrapers using Playwright & Selenium for real-time e-commerce data.  
-- Engineered ML models for price prediction, product recommendations, and classification.  
-- Integrated Azure Cosmos DB, MySQL, and SQL Server databases with data pipelines.  
-- Designed interactive dashboards using Power BI & Matplotlib.  
+Carrier Bag Shop
+-Engineered ML-based courier optimization system processing 100K+ historical orders, achieving 87% prediction accuracy and reducing delivery costs by 15% through intelligent route selection 
+-Integrated courier optimization system with .NET Core dashboard for real-time monitoring and decision support 
+-Maintained and optimized large-scale e-commerce platform serving customers across seven countries 
+-Designed and implemented admin panel features to enhance user experience, performance, and scalability 
+-Implemented Prompt Engineering techniques using RAG and LangChain to enhance AI-driven contextual responses, improving model accuracy by 25% 
+-Identified bugs to improve system stability and usability.
 
 **Tech Stack:** Python, FastAPI, Flask, Selenium, Scikit-learn, TensorFlow, MySQL, REST APIs  
 
