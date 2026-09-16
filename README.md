@@ -1,75 +1,136 @@
-# 👋 Hi, I'm Pavithra P  
+# Hi, I'm Pavithra P 👋
 
-🚀 **Software Developer | Python & AI Enthusiast | Full Stack Developer**  
-📍 Erode, India  
-📫 **Email:** pavithrapalani1282003@gmail.com   
-🌐 **Portfolio:** [https://pavithrap-portfolio.netlify.app/](https://pavithrap-portfolio.netlify.app/)
+### Generative AI Engineer | LLM Applications | RAG | Agentic AI | Python
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/pavithra-p-202780212/](https://www.linkedin.com/in/pavithra-p-202780212/)  
-💻 **GitHub:** [github.com/pavithrapri](https://github.com/pavithrapri)  
+I’m a **Generative AI Engineer** focused on building production-oriented LLM applications, agentic workflows, and Retrieval-Augmented Generation (RAG) systems.
+
+My experience spans **Generative AI, backend engineering, machine learning, NLP, automation, and data-driven applications**, with a focus on building reliable solutions for real-world business problems.
 
 ---
 
-## 🧠 About Me
-I’m a **Software Developer** with 1 year of hands-on experience building intelligent, data-driven, and scalable applications.  
-My work spans across **Python, AI/ML, Web Development, and Automation**, with a passion for solving real-world problems using clean and efficient code.  
+## 🧠 What I Work With
 
-I love turning ideas into impactful solutions — from **AI chatbots** to **price prediction systems**, and everything in between.
+* 🤖 Generative AI & LLM Applications
+* 🔗 RAG & Vector Search
+* 🧩 LangChain & LangGraph
+* 🧠 Multi-Agent Orchestration
+* 🛠️ Tool / Function Calling
+* ✍️ Prompt Engineering & Evaluation
+* 🔀 Model Routing & Fallback
+* 💰 Token & Cost Optimization
+* 📄 Document Processing & Validation
+* 🐍 Python Backend Development
+* 📊 Machine Learning & NLP
+* 🐳 Docker & API Development
 
 ---
 
 ## ⚙️ Technical Skills
 
-**💻 Languages:** Python, C, C#, SQL  
-**🌐 Backend & Web:** FastAPI, Flask, Django, .NET Core, RESTful APIs, HTML5, CSS3, JavaScript  
-**🧠 AI/ML & Data Science:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-**🤖 Automation & Web Scraping:** Playwright, Selenium, BeautifulSoup, Requests  
-**🗄️ Databases:** MySQL, SQL Server, Azure Cosmos DB  
-**🧩 Tools & Platforms:** GitHub, VS Code, Google Colab  
-**⚡ Other:** API Integration, Data Cleaning, Model Deployment, Performance Optimization  
+**Languages:**
+Python · C# · SQL
+
+**GenAI & LLM:**
+Prompt Engineering · RAG · LangChain · LangGraph · Multi-Agent Orchestration · Tool/Function Calling · Prompt Evaluation · Model Routing · Token & Cost Optimization · Vector Search · Embeddings
+
+**LLM Platforms & Tools:**
+OpenAI · GPT · Codex · Google Gemini · Groq · Cursor
+
+**Backend & Web:**
+FastAPI · Flask · Django · .NET Core · REST APIs · React
+
+**ML / Data:**
+Machine Learning · NLP · Deep Learning · TensorFlow · Scikit-learn · Pandas · NumPy
+
+**Databases & Infrastructure:**
+MySQL · PostgreSQL · Redis · Docker · Git · GitHub
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🧩 **Software Developer – Python & AI**  
-**BM E Solutions** | *Aug 2024 – Present*  
-Carrier Bag Shop
-- Engineered ML-based courier optimization system processing 100K+ historical orders, achieving 87% prediction accuracy and reducing delivery costs by 15% through intelligent route selection 
-- Integrated courier optimization system with .NET Core dashboard for real-time monitoring and decision support 
-- Maintained and optimized large-scale e-commerce platform serving customers across seven countries 
-- Designed and implemented admin panel features to enhance user experience, performance, and scalability 
-- Implemented Prompt Engineering techniques using RAG and LangChain to enhance AI-driven contextual responses, improving model accuracy by 25% 
-- Identified bugs to improve system stability and usability.
+### Generative AI Engineer — Straive
 
-**Tech Stack:** Python, FastAPI, Flask, Selenium, Scikit-learn, TensorFlow, MySQL, REST APIs  
+**Jan 2026 – Present | Chennai, India**
 
----
+* Building AI-driven document validation and correction workflows for large-scale legal and academic publications.
+* Working with LLM-powered document processing and automated copyediting workflows.
+* Collaborating on dynamic test-case generation using **LangGraph** to validate edge cases, formatting hierarchies, and citation consistency.
+* Developed a Regression & QC Validation Tool using prompt-JSON and flag-definition architecture to improve validation and identify recurring LLM generation defects.
+* Extended prompt architecture to support multilingual document correction.
 
-## 🎓 Education
+### Software Developer — BM e-Solutions
 
-- **B.Tech in Biotechnology** – Bannari Amman Institute of Technology (CGPA: 8.14 / 2020–2024)  
-- **HSC** – Adharsh Vidyalaya Hr. Sec. School (76.5% / 2020)  
-- **SSLC** – Adharsh Vidyalaya Hr. Sec. School (87.4% / 2018)  
+**Aug 2024 – Jan 2026**
 
----
-
-## 🏆 Achievements
-- 🧾 Published a paper: *"Fault Detection Method for Tail Rope Using Machine Learning"* in IUARI Journal.  
+* Engineered an ML-based courier optimization system processing **100K+ historical orders**.
+* Achieved **87% prediction accuracy** and reduced delivery costs by **15%**.
+* Integrated the ML solution with a **.NET Core dashboard** for monitoring and decision support.
+* Implemented Prompt Engineering with **RAG and LangChain**, improving AI response accuracy by 25%.
+* Maintained and enhanced an e-commerce platform serving customers across multiple countries.
 
 ---
 
-## 🎖️ Certifications
-- **Python Full Stack with Data Science** – QSpider, Chennai  
-- **.NET Training** – Centralogic, Pune (2024)  
+# 🚀 Featured Projects
+
+## 1. AI Gateway & LLM Observability Platform
+
+**Python · FastAPI · PostgreSQL · Redis · React · Docker · RAG**
+
+* Built a multi-LLM gateway providing unified access to multiple LLM providers.
+* Implemented dynamic model routing based on **cost, latency, and task complexity**.
+* Built an observability and evaluation pipeline tracking **token usage, latency, response quality, and hallucinations**.
+* Added RAG evaluation, prompt versioning, and automated model fallback to improve reliability and control inference costs.
+* Developed a React dashboard for model comparison and real-time cost and quality monitoring.
 
 ---
+
+## 2. Autonomous AI Software Engineering & Code Review Platform
+
+**Python · FastAPI · LangGraph · RAG · PostgreSQL · Docker · GitHub APIs**
+
+* Built an agentic platform that analyzes GitHub issues and codebases and generates context-aware code changes using specialized LLM agents.
+* Developed a codebase RAG pipeline to retrieve relevant files, functions, and dependencies without passing entire repositories to the LLM.
+* Automated the workflow from GitHub issue analysis through code generation, test execution, review, and pull-request creation using isolated Docker environments.
+* Designed traceable agent workflows for planning, implementation, testing, and code review.
+
+---
+
+## 📚 Education
+
+**B.Tech in Biotechnology**
+Bannari Amman Institute of Technology
+2020 – 2024 | CGPA: 8.14
+
+---
+
+## 🏆 Publication
+
+**Fault Detection Method for Tail Rope Using Machine Learning**
+
+Published research work applying machine learning techniques to fault detection.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [pavithrapalani1282003@gmail.com](mailto:pavithrapalani1282003@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/pavithra-p](https://www.linkedin.com/in/pavithra-p-202780212/)
+
+💻 **GitHub:** github.com/pavithrapri
+
+---
+
+### 🚀 Currently Focused On
+
+Generative AI · LLM Applications · Agentic AI · RAG · LLM Evaluation · AI Engineering · Backend Systems · System Design
 
 ## 💬 Let’s Connect
 I’m always open to  exciting tech opportunities .  
 Feel free to connect or drop me a message!  
 
-🌐 [Portfolio](https://pavithrap-portfolio.netlify.app/) • 💼 [LinkedIn](https://www.linkedin.com/in/pavithra-p-202780212/) • 💻 [GitHub](https://github.com/pavithrapri)
+• 💼 [LinkedIn](https://www.linkedin.com/in/pavithra-p-202780212/) • 💻 [GitHub](https://github.com/pavithrapri)
 
 ---
 
