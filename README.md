@@ -118,7 +118,6 @@ Published research work applying machine learning techniques to fault detection.
 
 💼 **LinkedIn:** [linkedin.com/in/pavithra-p](https://www.linkedin.com/in/pavithra-p-202780212/)
 
-💻 **GitHub:** github.com/pavithrapri
 
 ---
 
